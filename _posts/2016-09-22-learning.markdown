@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Learning HTML"
+date:   2016-09-22
+categories: ["science","life","design"]
+---
+
+In Wednesday's class, we set up our websites using Jekyll themes.
+Now, it's time to figure out how to incorporate HTML into my own blog posts.
+I'm going to display a few things that I learned  from some HTML tutorials here.
+
+In HTML, lists can be written as such:
+
+```html
+<ul>
+    <li>Coffee</li>
+    <li>Banana</li>
+    <li>Pizza</li>
+</ul>
+```
