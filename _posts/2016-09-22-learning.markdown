@@ -18,3 +18,11 @@ In HTML, lists can be written as such:
     <li>Pizza</li>
 </ul>
 ```
+
+Result:
+<ul>
+    <ul>
+    <li>Coffee</li>
+    <li>Banana</li>
+    <li>Pizza</li>
+</ul>
