@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning HTML"
 date:   2016-09-22
-categories: "class"
+categories: "projects"
 ---
 
 In Wednesday's class, we set up our websites using Jekyll themes.
