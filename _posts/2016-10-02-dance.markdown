@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Coffee"
+title:  "Dance"
 date:   2016-10-02
 categories: "interests"
 ---
-
-Here.
