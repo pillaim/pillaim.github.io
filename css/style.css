@@ -215,6 +215,7 @@ pre {
 }
 
 .postDate {
+  color: #EBEDED;
   float: right;
   text-transform: uppercase;
   font-family: "Source Sans Pro";
