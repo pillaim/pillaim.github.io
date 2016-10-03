@@ -4,3 +4,119 @@ title:  "Food"
 date:   2016-10-03
 categories: "interests"
 ---
+
+
+<html>
+<head>
+<style>
+div.img {
+	margin: 5px;
+	border: 1px solid #ccc;
+	float: left;
+	width: 180px;
+}
+
+div.img:hover {
+	border: 1px solid #777;
+}
+
+div.img img {
+	width: 100%;
+	height: auto;
+}
+
+div.desc {
+	padding: 15px;
+	text-align: center;
+}
+</style>
+</head>
+
+<body>
+
+<div class = "img">
+	<a target = "_blank" href="/FFullSizeRender-1.jpg">
+		<img src="/FFullSizeRender-1.jpg" width = "300" height = "200">
+	</a>
+	<div class="desc"> Bean Traders </div>
+</div>
+
+<div class = "img">
+	<a target = "_blank" href="/FFullSizeRender-2.jpg">
+		<img src="/FFullSizeRender-2.jpg" width = "300" height = "200">
+	</a>
+	<div class="desc"> Caffé Driade </div>
+</div>
+
+<div class = "img">
+	<a target = "_blank" href="/FIMG_0002.jpg">
+		<img src="/FIMG_0002.jpg" width = "300" height = "200">
+	</a>
+	<div class="desc"> Bean Traders </div>
+</div>
+
+<div class = "img">
+	<a target = "_blank" href="/FIMG_0024.jpg">
+		<img src="/FIMG_0024.jpg" width = "300" height = "200">
+	</a>
+	<div class="desc"> Bean Traders </div>
+</div>
+
+<div class = "img">
+	<a target = "_blank" href="/FIMG_0030.jpg">
+		<img src="/FIMG_0030.jpg" width = "300" height = "200">
+	</a>
+	<div class="desc"> Bean Traders </div>
+</div>
+
+<div class = "img">
+	<a target = "_blank" href="/FIMG_0427.jpg">
+		<img src="/FIMG_0427.jpg" width = "300" height = "200">
+	</a>
+	<div class="desc"> Bean Traders </div>
+</div>
+
+<div class = "img">
+	<a target = "_blank" href="/FIMG_0585.jpg">
+		<img src="/FIMG_0585.jpg" width = "300" height = "200">
+	</a>
+	<div class="desc"> Bean Traders </div>
+</div>
+
+<div class = "img">
+	<a target = "_blank" href="/FIMG_0749.jpg">
+		<img src="/FIMG_0749.jpg" width = "300" height = "200">
+	</a>
+	<div class="desc"> Bean Traders </div>
+</div>
+
+<div class = "img">
+	<a target = "_blank" href="/FIMG_0806.jpg">
+		<img src="/FIMG_0806.jpg" width = "300" height = "200">
+	</a>
+	<div class="desc"> Bean Traders </div>
+</div>
+
+<div class = "img">
+	<a target = "_blank" href="/FIMG_0820.jpg">
+		<img src="/FIMG_0820.jpg" width = "300" height = "200">
+	</a>
+	<div class="desc"> Bean Traders </div>
+</div>
+
+<div class = "img">
+	<a target = "_blank" href="/FIMG_1020.jpg">
+		<img src="/FIMG_1020.jpg" width = "300" height = "200">
+	</a>
+	<div class="desc"> Bean Traders </div>
+</div>
+
+<div class = "img">
+	<a target = "_blank" href="/FIMG_1527.jpg">
+		<img src="/FIMG_1527.jpg" width = "300" height = "200">
+	</a>
+	<div class="desc"> Bean Traders </div>
+</div>
+
+</body>
+</html>
