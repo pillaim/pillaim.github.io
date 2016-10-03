@@ -7,8 +7,10 @@ layout: page
 {% for cat in post.categories %}
 {% if cat == page.category %}
 
-
-
+  <div class="archive-content">
+    {{ content }}
+  </div>
+  
 <div class="post postContent">
   <div  class="postDate"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
   </div>
