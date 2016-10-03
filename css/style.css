@@ -7,13 +7,22 @@ dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0; }
 
+@-webkit-keyframes colorChange {
+  0% {background-color: #BDB6B7;}
+  25% {background-color: #E99AA8;}
+  50% {background-color: #DDDCC0;}
+  75% {background-color: #84ADBE;}
+  100% {background-color: #A2D9F0;}
+}
+
 /**
  * Basic styling
  */
 body {
   font: 400 16px/1.5 "PT Sans", Helvetica, Arial, sans-serif;
   color: #111;
-  background-color: #EBEDED;
+  background-color: #BDB6B7;
+  -webkit-animation: colorChange 45s infinite alternate;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
