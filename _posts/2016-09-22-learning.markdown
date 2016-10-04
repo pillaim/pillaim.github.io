@@ -9,21 +9,25 @@ assignment: "true"
 In Wednesday's class, we set up our websites using Jekyll themes.
 Now, it's time to figure out how to incorporate HTML into posts.
 I'm going to display a few things that I learned from some HTML tutorials here.
+I mainly used [w3schools](http://www.w3schools.com/html/default.asp) to learn more about HTML.
 
-In HTML, lists can be written as such:
+You can add images from links to a page like this:
 
 ```html
-<ul>
-    <li>Coffee</li>
-    <li>Banana</li>
-    <li>Pizza</li>
-</ul>
+
+<img src="http://az616578.vo.msecnd.net/files/2016/08/05/636059648322773598-977331982_Aaaaaawwwwwwwwww-Sweet-puppies-9415255-1600-1200.jpg" style="width: 50%; height: 50%"/>
+
+```
+Result:
+
+<img src="http://az616578.vo.msecnd.net/files/2016/08/05/636059648322773598-977331982_Aaaaaawwwwwwwwww-Sweet-puppies-9415255-1600-1200.jpg" style="width: 50%; height: 50%"/>
+
+I also learned something else really cool: how to embed iframes.
+If I wanted to embed a YouTube video, I could do this:
+
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQUJZGtoV-4" frameborder="0" allowfullscreen></iframe>
 ```
 
 Result:
-<ul>
-    <ul>
-    <li>Coffee</li>
-    <li>Banana</li>
-    <li>Pizza</li>
-</ul>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hQUJZGtoV-4" frameborder="0" allowfullscreen></iframe>
