@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #aaa !important;
+  color: #B00909 !important;
   text-decoration: none; }
   a:visited {
     color: #1756a9; }
@@ -77,7 +77,7 @@ a {
     color: #111;
     border-bottom: 1px dotted black; }
   a.postLink {
-    color: black !important; }
+    color: #B00909 !important; }
     a.postLink:hover {
       border-bottom: 1px dotted black; }
     a.postLink:visited {
@@ -270,8 +270,11 @@ pre {
   letter-spacing: 2px;
   text-indent: 6px;
   font-family: 'Josefin Sans';
-  font-weight: bolder;
-  padding-top: 5em; }
+  font-weight: light;
+  padding-top: 5em; 
+  text-align: center;
+  
+}
 
 .page-title {
   text-transform: uppercase;
