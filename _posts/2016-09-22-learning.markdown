@@ -8,7 +8,7 @@ assignment: "true"
 
 In Wednesday's class, we set up our websites using Jekyll themes.
 Now, it's time to figure out how to incorporate HTML into posts.
-I'm going to display a few things that I learned  from some HTML tutorials here.
+I'm going to display a few things that I learned from some HTML tutorials here.
 
 In HTML, lists can be written as such:
 
