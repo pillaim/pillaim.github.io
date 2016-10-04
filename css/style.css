@@ -425,10 +425,10 @@ pre {
   margin-bottom: 30px; }
 
 .post-title {
-  font-size: 62px;
+  font-size: 40px;
   text-align: center;
   font-family: "PT Sans";
-  font-weight: 900; }
+  font-weight: 400; }
   @media screen and (max-width: 800px) {
     .post-title {
       font-size: 36px; } }
