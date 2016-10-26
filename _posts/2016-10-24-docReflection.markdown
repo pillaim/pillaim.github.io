@@ -17,6 +17,7 @@ On 10/24, in class, I realized that I didn't account for smart quotes, so I adde
 On 10/26, I tried to get my output files to put below in the list of files. The script wasn't working anymore. I was so frustrated because it was working a few days ago. It was glitching at the if statement, so I thought something was wrong with my syntax. I ended up taking out the wildcard in my string comparison, and I used a direct string comparison. To explain further, I took the file input and removed the filename, leaving only the file extension. For example, if a user types in `README.docx`, the if statement will only read the `docx` portion, see that it is not equal to `md`, and produce an error.
 
 # List of Files
+
 ## Click on filename to get to connecting Github page
 
 1. Source: [commEventToConvert.md](https://github.com/inls161/assignment-3-pillaim/blob/5489558d33704c6939ae7f7e14aabb87a551fa24/commEventToConvert.md)
@@ -26,6 +27,7 @@ On 10/26, I tried to get my output files to put below in the list of files. The 
 5. Output: [commEventToConvert.odt](https://github.com/inls161/assignment-3-pillaim/blob/ff8f2b6276999f290f9d28cdcff8a157bdac905b/commEventToConvert.odt)
 
 # Script
+
 ## Click on filename to get to connecting Github page
 
 - [pillaim-convert-docs.sh](https://github.com/inls161/assignment-3-pillaim/commit/0309cab0863296de9a3d723c25887657d20b82d0)
