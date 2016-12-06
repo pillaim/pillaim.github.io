@@ -13,6 +13,7 @@ I didn't realize a lot of the lightbulbs until class today. I was really thankfu
 
 # Challenges:
 Incorporating the video was the biggest challenge. Jailine and I wanted to include it because of how crucial we think it is to the presentation, but it was definitely a lot of work. I think it turned out well in the end though. Then, understanding how the audio worked was another challenge, but once we got that, it was simple. We had a few close calls when we thought we broke the presentation, but everything was fine.
+
 Our attitude in most of this project:
 ![](http://s.quickmeme.com/img/88/88e4e5487c2150fde4f93a8a7270d216457d34b52819ba9fc4f16f3e1504bc4d.jpg)
 
