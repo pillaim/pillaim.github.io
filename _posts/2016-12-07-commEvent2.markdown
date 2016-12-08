@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Community Event 2: 3D Printing Workshop"
+date:   2016-10-05
+assignment: "true"
+---
+
+For my workshop community event, I went to a 3D printing workshop. The actual workshop turned out to be more like an introduction to 3D printing and then being able to see different things that the Kenan Makerspace printed. I was expecting them to show us the printing process and explain 3D printing while it was happening. I don’t think a powerpoint was the best way they could have introduced 3D printing. Aside from that, I really enjoyed the workshop because 3D printing in general is really cool. Jailine and I did our final presentation on 3D printing in medicine, and I went to the workshop mainly to get more background knowledge on the process. I wanted to take the workshop a step further and actually print something. I talked to the instructor about printing a vertebra for the class presentation and recording the process. She was really helpful and explained the different printers and which ones would do the job well. I think I learned more from the questions I asked after the workshop than I did from the actual workshop. I asked about each of the printers, the type of material they use, how the processes are different for each printer, and how the Makerspace staff chooses to use one printer over the others. Everything sounded super cool and definitely helped with our presentation. I wanted to do a personal project as well though. I collect shot glasses, so I found a design online from one of the websites in the workshop presentation. Here’s a picture of it:
+![](/pillaim.github.io/tiki_shotglass.jpg)
+
+I went back to the Makerspace for a consultation and got the shot glass printed . Its detail is amazing, and I'm really happy about how it turned out. Overall, I think this community event turned into a lot more than I thought it would. I learned about 3D printing, 3D printed something for class, and then 3D printed something for myself. It was a great experience, and now I want to do the in-depth training the Murray Makerspace offers.
