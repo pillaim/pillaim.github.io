@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "PT Sans", Helvetica, Arial, sans-serif;
   color: #111;
-  background-color: #EBEDED;
+  background-color: #EFF8FF;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -66,10 +66,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #B00909 !important;
+  color: #929292 !important;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #4A4A4A; }
   a:hover {
     color: black !important;
     border-bottom: 1px dotted black; }
@@ -77,7 +77,7 @@ a {
     color: #111;
     border-bottom: 1px dotted black; }
   a.postLink {
-    color: #B00909 !important; }
+    color: #696969 !important; }
     a.postLink:hover {
       border-bottom: 1px dotted black; }
     a.postLink:visited {
