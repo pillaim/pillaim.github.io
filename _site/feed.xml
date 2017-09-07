@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malvika</title>
+    <description>INLS 161 Assignment 2</description>
+    <link>https://pillaim.github.io/</link>
+    <atom:link href="https://pillaim.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 07 Sep 2017 05:06:56 +0000</pubDate>
+    <lastBuildDate>Thu, 07 Sep 2017 05:06:56 +0000</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Community Event 2: 3D Printing Workshop</title>
+        <description>&lt;p&gt;For my workshop community event, I went to a 3D printing workshop. The actual workshop turned out to be more like an introduction to 3D printing and then being able to see different things that the Kenan Makerspace printed. I was expecting them to show us the printing process and explain 3D printing while it was happening. I don’t think a powerpoint was the best way they could have introduced 3D printing. Aside from that, I really enjoyed the workshop because 3D printing in general is really cool. Jailine and I did our final presentation on 3D printing in medicine, and I went to the workshop mainly to get more background knowledge on the process. I wanted to take the workshop a step further and actually print something. I talked to the instructor about printing a vertebra for the class presentation and recording the process. She was really helpful and explained the different printers and which ones would do the job well. I think I learned more from the questions I asked after the workshop than I did from the actual workshop. I asked about each of the printers, the type of material they use, how the processes are different for each printer, and how the Makerspace staff chooses to use one printer over the others. Everything sounded super cool and definitely helped with our presentation. I wanted to do a personal project as well though. I collect shot glasses, so I found a design online from one of the websites in the workshop presentation. Here’s a picture of it:
+&lt;img src=&quot;/pillaim.github.io/tiki_shotglass.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I went back to the Makerspace for a consultation and got the shot glass printed . Its detail is amazing, and I’m really happy about how it turned out. Overall, I think this community event turned into a lot more than I thought it would. I learned about 3D printing, 3D printed something for class, and then 3D printed something for myself. It was a great experience, and now I want to do the in-depth training the Murray Makerspace offers.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
+        <link>https://pillaim.github.io/2016/12/07/commEvent2.html</link>
+        <guid isPermaLink="true">https://pillaim.github.io/2016/12/07/commEvent2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Final Reflection: 3D Printing Presentation</title>
+        <description>&lt;h1 id=&quot;who-did-what--process&quot;&gt;Who did what + Process:&lt;/h1&gt;
+&lt;p&gt;Wow, it seems like we’ve been working on this project for a really long time. Jailine and I started this project trying to figure out some way to talk about technology in medicine. We finally decided to talk about 3D printing. In the beginning, we just thought of bioprinting. I watched a TED talk about 3D printing a kidney a while ago, and we were mainly talking about how cool it was to print organs. Then, we both researched other applications of 3D printing and found that it’s very cost-efficient to print medical tools and surgical planning tools.&lt;/p&gt;
+
+&lt;p&gt;After figuring out the outline, I realized that it would be cool to actually 3D print something for the presentation and record the process. For my community event, I went to a 3D printing workshop, and after the workshop I asked about printing a vertebra and recording the print. Jailine and I went to record the process a few days later.&lt;/p&gt;
+
+&lt;p&gt;Then, we reserved the SILS media lab to record audio for each of our slides. Jailine wrote the base script, and I edited and added more to it. Then, we both took turns recording. Afterwards, we met again to put everything together. Jailine added the script parts to the speaker notes, and we both added and removed slides and pictures. It was nice to meet up and knock everything out together, so we didn’t have to worry about merge conflicts. We made sure that we were on top of telling each other when to pull before editing.&lt;/p&gt;
+
+&lt;p&gt;Then, I ran into some problems with how big the video was. After talking to Jailine about it, we decided to wait until today (Monday) to work on adding audio and video to the slides. Today, we ran into a huge problem with git. I had pushed the 127 mb video to Github, and git’s max is 100 mb. Even after deleting the video locally, git still remembered it. I ended up having to reset the git history, but fortunately, the only thing Jailine had done by then was upload the audio files. After resetting, she uploaded them again, and we were back in business.&lt;/p&gt;
+
+&lt;p&gt;After running into multiple errors with the audio and video, we got it working, and I was excited to experiment with the html and css. After changing the theme, slide transitions, uncentering the slide titles, changing font colors, adding a background image and adjusting image sizes, I was happy. It finally looked a lot prettier than it did in class today. I’m definitely happy with our final project.&lt;/p&gt;
+
+&lt;h1 id=&quot;lightbulbs&quot;&gt;Lightbulbs:&lt;/h1&gt;
+&lt;p&gt;I didn’t realize a lot of the lightbulbs until class today. I was really thankful that Jailine and I recorded all of the audio in one sitting because it made the presentation more uniform. Another huge lightbulb was when I realized that git remembered the giant video I tried to push. It reminded me of a lecture from two months ago about how git is a powerful metadata tool and big files clog space.&lt;/p&gt;
+
+&lt;h1 id=&quot;challenges&quot;&gt;Challenges:&lt;/h1&gt;
+&lt;p&gt;Incorporating the video was the biggest challenge. Jailine and I wanted to include it because of how crucial we think it is to the presentation, but it was definitely a lot of work. I think it turned out well in the end though. Then, understanding how the audio worked was another challenge, but once we got that, it was simple. We had a few close calls when we thought we broke the presentation, but everything was fine.&lt;/p&gt;
+
+&lt;p&gt;Our attitude in most of this project:
+&lt;img src=&quot;http://s.quickmeme.com/img/88/88e4e5487c2150fde4f93a8a7270d216457d34b52819ba9fc4f16f3e1504bc4d.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;use-of-skills-in-project&quot;&gt;Use of skills in project:&lt;/h1&gt;
+&lt;p&gt;There was a lot of work in html and css in this project. Aside from technical skills, I think this project required a lot of patience. I can be impatient sometimes, but I’ve learned that force reloading a page multiple times isn’t going to make it magically work.&lt;/p&gt;
+
+&lt;h1 id=&quot;use-of-skills-in-future&quot;&gt;Use of skills in future:&lt;/h1&gt;
+&lt;p&gt;I’m definitely happy about how much we’ve used html and css in this class. Especially in this project, it was awesome to try and figure out how to incorporate different things within reveal’s framework. I got pretty excited about it at times. In the future, I’m probably going to end up using html and css again. I want this website to function as my personal website after this class, so I’ll be editing it a lot in the future.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
+        <link>https://pillaim.github.io/projects/2016/12/05/finalReflection.html</link>
+        <guid isPermaLink="true">https://pillaim.github.io/projects/2016/12/05/finalReflection.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>MySQL Reflection</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/ldinkins/malily5&quot;&gt;Link to Github Repository&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We continued working on the bash script from Assignment 4 by adding a connection to MySQL. First, we created the database malily if it didn’t already exist. Then we fed a dump file into the database. Afterwards, we added the current responses to the database and then outputted the database into the dump file. This created an import-export loop that anyone could use this script and the dump file to have access to the information in the table as well as add to the table.&lt;/p&gt;
+
+&lt;p&gt;Originally, we didn’t make the script like this. We only had it create a database and add information to a table, making it local. To make sure that Lily and I could both access each other’s responses, we created the import dump and the export dump. We ran into some troubles with this, mainly syntax problems. To debug, the script had a line before the insert statement that printed the database and a line after that prints the database. We put this line in to make sure that our additions were going in from different systems. Now, there’s only one final line that prints the database table. Our syntax problems were from importing the dump, and it took us a while to realize that mysqldump is a separate command and cannot go into the block of mysql commands. One final thing we had to do was sync our databases to make sure that what was in Lily’s database was in mine.&lt;/p&gt;
+
+&lt;p&gt;Overall, I thought this assignment was a good refresher in working with MySQL. I previously worked with it in Perl, and I had the most trouble with remembering syntax. Stack Overflow really helped with that though. Also, it was great to work with Lily on this. We tried to work on each step together instead of dividing and conquering. On a personal level, I loved explaining things that made more sense to me than they did to her because I think that being able to break down technical concepts verbally reinforces what I already know. It also made clear the points that I didn’t know as well as others, and we Googled our way through it. It was a great learning experience. I think it’s easy to bulldoze and just do something yourself if you have a better idea of what’s going on, but working as a team was much more rewarding and made the assignment fun.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+        <link>https://pillaim.github.io/projects/2016/11/16/mysqlReflection.html</link>
+        <guid isPermaLink="true">https://pillaim.github.io/projects/2016/11/16/mysqlReflection.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Bash Script Reflection</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/ldinkins/malily-assignment-4&quot;&gt;Link to Github Repository&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lily and I started off the assignment by trying to figure out what questions we wanted to ask. Surprisingly, this took a while. Then, we tried to generate random strings. We hit a snag with this portion because we didn’t know how to save the output of the generator command into a variable. We realized that putting parentheses around the &lt;code class=&quot;highlighter-rouge&quot;&gt;cat&lt;/code&gt; command would fix the problem. Afterwards, we moved onto creating the datestamp. I realized that the time zone wasn’t EST, so I changed the original command to include the time zone. Once that was done, we worked on putting all of the output in a CSV file. Originally, the command rewrote answers in the CSV instead of appending them. After adding an extra &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;gt;&lt;/code&gt;, the script appended the CSV instead of rewriting it. That concluded the base requirements for the assignment.&lt;/p&gt;
+
+&lt;p&gt;For the bonus portion, Lily and I decided to work on things individually and use pull requests for collaboration. I decided to create a function to print the CSV results to the screen, like in the tutorial from the class notes. It was fairly straightforward, but it wasn’t very pretty. Making the names bold made the output look a little bit better, but I thought it could use some color. Lily decided to work on making everything prettier. She added a color scheme that made the questions and output look a lot better. When we were going back and forth to edit things, Lily ran into a conflict that she resolved. Other than that, we didn’t have any problems. I think the whole assignment was a cool way to work as a group and use git to make it easier to collaborate.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+        <link>https://pillaim.github.io/projects/2016/11/03/bashReflection.html</link>
+        <guid isPermaLink="true">https://pillaim.github.io/projects/2016/11/03/bashReflection.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Documentation Reflection</title>
+        <description>&lt;h2 id=&quot;written-work&quot;&gt;Written Work&lt;/h2&gt;
+&lt;p&gt;My written work is a copy of my first community event description, a list of upcoming INLS events, a few quotes about how it’s important to learn how to code, and a picture of coffee that relates to coding.&lt;/p&gt;
+
+&lt;h2 id=&quot;conversion-description&quot;&gt;Conversion Description&lt;/h2&gt;
+&lt;p&gt;On 10/22, I wrote a script that will take a markdown file and convert it to &lt;code class=&quot;highlighter-rouge&quot;&gt;HTML&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;DOCX&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;ODT&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;PDF&lt;/code&gt; formats. I started off the script with an if statement. I made sure that I had my if statement syntax right and then started to read in &lt;code class=&quot;highlighter-rouge&quot;&gt;README.md&lt;/code&gt; as my test file. I kept getting errors. I realized that by taking in my input as &lt;code class=&quot;highlighter-rouge&quot;&gt;README.md&lt;/code&gt; and using that input variable as the argument in my pandoc commands, I was creating documents like &lt;code class=&quot;highlighter-rouge&quot;&gt;README.md.docx&lt;/code&gt;. That’s not what I wanted to do, so I started going through bash syntax to figure out how to get rid of parts of string variables. After I figured that out, I was able to take in a file input and extract the filename from it. My life got a lot easier after I figured that out. I had an executable script that did what the assignment needed me to do. I stopped working on this then.&lt;/p&gt;
+
+&lt;p&gt;On 10/24, in class, I realized that I didn’t account for smart quotes, so I added the &lt;code class=&quot;highlighter-rouge&quot;&gt;-s&lt;/code&gt; flag to all of my pandoc commands and put them into a function. That took me a few minutes to understand bash syntax as well because I kept calling the function with &lt;code class=&quot;highlighter-rouge&quot;&gt;$&lt;/code&gt; in front of it. This made me get an error. After taking out the dollar sign, the script worked again. Afterwards, I realized that my error statement wasn’t red, like I wanted it to be, because I forgot to add the &lt;code class=&quot;highlighter-rouge&quot;&gt;-e&lt;/code&gt; tag. I added that, and everything worked like I wanted it to.&lt;/p&gt;
+
+&lt;p&gt;On 10/26, I tried to get my output files to put below in the list of files. The script wasn’t working anymore. I was so frustrated because it was working a few days ago. It was glitching at the if statement, so I thought something was wrong with my syntax. I ended up taking out the wildcard in my string comparison, and I used a direct string comparison. To explain further, I took the file input and removed the filename, leaving only the file extension. For example, if a user types in &lt;code class=&quot;highlighter-rouge&quot;&gt;README.docx&lt;/code&gt;, the if statement will only read the &lt;code class=&quot;highlighter-rouge&quot;&gt;docx&lt;/code&gt; portion, see that it is not equal to &lt;code class=&quot;highlighter-rouge&quot;&gt;md&lt;/code&gt;, and produce an error.&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-files&quot;&gt;List of Files&lt;/h2&gt;
+
+&lt;p&gt;Click on filename to get to connecting Github page&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Source: &lt;a href=&quot;https://github.com/inls161/assignment-3-pillaim/blob/5489558d33704c6939ae7f7e14aabb87a551fa24/commEventToConvert.md&quot;&gt;commEventToConvert.md&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Output: &lt;a href=&quot;https://github.com/inls161/assignment-3-pillaim/blob/ff8f2b6276999f290f9d28cdcff8a157bdac905b/commEventToConvert.docx&quot;&gt;commEventToConvert.docx&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Output: &lt;a href=&quot;https://github.com/inls161/assignment-3-pillaim/blob/ff8f2b6276999f290f9d28cdcff8a157bdac905b/commEventToConvert.html&quot;&gt;commEventToConvert.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Output: &lt;a href=&quot;https://github.com/inls161/assignment-3-pillaim/blob/ff8f2b6276999f290f9d28cdcff8a157bdac905b/commEventToConvert.pdf&quot;&gt;commEventToConvert.pdf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Output: &lt;a href=&quot;https://github.com/inls161/assignment-3-pillaim/blob/ff8f2b6276999f290f9d28cdcff8a157bdac905b/commEventToConvert.odt&quot;&gt;commEventToConvert.odt&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;script&quot;&gt;Script&lt;/h2&gt;
+
+&lt;p&gt;Click on filename to get to connecting Github page&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/inls161/assignment-3-pillaim/commit/0309cab0863296de9a3d723c25887657d20b82d0&quot;&gt;pillaim-convert-docs.sh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;link-to-cloud9-workspace&quot;&gt;Link to Cloud9 Workspace:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ide.c9.io/pillaim/assignment3&quot;&gt;https://ide.c9.io/pillaim/assignment3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+        <link>https://pillaim.github.io/projects/2016/10/24/docReflection.html</link>
+        <guid isPermaLink="true">https://pillaim.github.io/projects/2016/10/24/docReflection.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Community Event Description</title>
+        <description>&lt;p&gt;Code: Debugging the Gender Gap is talking about reasons why there is a hiring gap in software engineering. Women are hired less than men are. The filmmaker, Robin Hauser Reynolds, uses the film to describe reasons why this hiring gap exists and what the root problems are. In this class, we are learning about information literacy and gaining information technology skills. The film describes how having classes like ours is important for bridging the hiring gap. Making our class an inclusive environment helps everyone feel more comfortable asking questions and understanding the material. In the panel discussion after the film screening, Robin described difficulties that her daughter was having when she took a computer science class. Her daughter was one of very few women in the class and thought she was failing the whole time, even though she was doing quite well. One thing that I noticed right away about this class, compared to other computer science classes I have taken, is that it’s a very open environment, where people are free to make mistakes, learn from them, and talk about them. There’s no pressure about what you should have prior knowledge about. The film discussed women who started coding in college, rather than being the ten-year-old coder who already understands how everything works. There are a lot of people in computer science classes at UNC who fit this model. With the clear divide between people who already know how to code before they take introductory classes and people who are just starting out, it makes it difficult to have an equal playing field. In this case, an equal playing field would be one in which people don’t feel like Robin’s daughter did in her first class.&lt;/p&gt;
+
+&lt;p&gt;The film screening described the history of women in computer science, the stigmas about women from then on, the problems women are facing today, and some of the cultural problems that influenced this issue. It began by discussing how women were tasked with coding computers. At that time, people thought that men should construct computers because that would be the harder job, and women would just be tasked with coding human commands into assembly language. It turned out that this process involved lengthy pipelines and was not as easy as engineers thought it would be. It then talked about Grace Hopper and her impact on the field. She was a Navy Rear Admiral who was awarded the first Computer Science Man of the Year award. When asked in an interview if society has made it in computers, she responded that the process has only just begun.&lt;/p&gt;
+
+&lt;p&gt;After describing history, the film showed how boys and girls are treated differently from childhood onwards. Boys had toys like construction units that could be used to build things and foster engineering capabilities. Girls had dollhouses and play kitchens that would not encourage them to create anything. There are a few companies now who focus on bringing equal opportunities to girls like GoldieBlox. GoldieBlox’s main goal is to create toys and entertainment for girls that will develop interest in engineering. The film completed this segment by talking about a few other companies that also had similar goals and then continued to discuss problems women face today.&lt;/p&gt;
+
+&lt;p&gt;Aside from problems getting a degree in computer science, women in the field also struggle with being in a male-dominated field. One woman talked about how she left her job because her coworkers were not taking her ideas into account and were continuously objectifying women. After she left her job, she got death threats and her former coworkers made a meme out of one of her photos and wrote derogatory terms on it. She is not the only women who has faced these problems. Another executive asked how she could encourage women to delve into the computer science field knowing that prospective female software engineers will always have to struggle to prove that they are just as good, if not better, than their male counterparts. From this film, I understood that getting involved in any of the technology fields will be an uphill battle for women, and there are many reasons for this, detailed in the film. I also understood that it is important to know about all of the facets of this issue. When I was unaware that this is commonplace in computer science, I felt like Robin’s daughter did when I first started coding. It’s interesting to hear that America is behind many other countries who already understand how many potential job opportunities there will be in information technology and that women and men need to fill those positions.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Oct 2016 00:00:00 +0000</pubDate>
+        <link>https://pillaim.github.io/2016/10/05/commEvent.html</link>
+        <guid isPermaLink="true">https://pillaim.github.io/2016/10/05/commEvent.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Website Reflection</title>
+        <description>&lt;p&gt;This has been a really interesting process. Figuring how to do what I would consider small things actually takes a long time to figure out.&lt;/p&gt;
+
+&lt;p&gt;The part that tripped me up the most was changing the layout of something. I chose to add an icon before each page’s tagline, but I couldn’t figure out anything else that I would want to do. Gravity is pretty minimal, and it’s set up just like I would want my personal website to be set up.&lt;/p&gt;
+
+&lt;p&gt;In my testing branch, I made the website change colors periodically, and that was really cool. I wanted to incorporate it by pulling in the changes to the master branch, but I didn’t want Github to delete the branch. Since I couldn’t do that, I decided to make the website red and black themed. I finally figured out how to change the text color in the navigation bar, which was really satisfying. Also, I didn’t like how large post titles were, so I decreased post title size.&lt;/p&gt;
+
+&lt;p&gt;Also, I used the one post that we had to do for class as a reason to go through w3schools and figure out how to do a bunch of things. I only included a few things in the post, but it was really interesting to read through the website posts and use the “Try it Yourself” sections to practice using HTML.&lt;/p&gt;
+
+&lt;p&gt;The part of the site that I spent the longest on was figuring out how to use HTML, CSS, and Javascript together. I really wanted each of my interest posts to have a slideshow of pictures, but that didn’t really work out. I’m planning on continuing to update this site for fun, so figuring out how to make a nice photo display is my next step. I want users to be able to click through the photos, and if the user chooses to click on a photo, a zoomed in image should pop up. If I want to get really fancy with that, I’m going to make each picture differently sized like in a collage.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+        <link>https://pillaim.github.io/projects/2016/10/04/reflection.html</link>
+        <guid isPermaLink="true">https://pillaim.github.io/projects/2016/10/04/reflection.html</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Food</title>
+        <description>&lt;p&gt;I’m someone who loves to explore and discover new things. More specifically, I love to try different foods. I often take my friends to try out new restaurants, and these pictures are some gems that I’ve had the pleasure of trying out over the past few years.&lt;/p&gt;
+
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot; /&gt;
+
+&lt;style&gt;
+* {box-sizing:border-box}
+
+.mySlides {display:none}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 500px;
+  position: relative;
+  margin: auto;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+/*@media only screen and (max-width: 300px) {*/
+/*  .text {font-size: 11px}*/
+/*}*/
+&lt;/style&gt;
+
+&lt;body&gt;
+  
+&lt;div class=&quot;slideshow-container&quot;&gt;
+
+&lt;div class=&quot;mySlides fade&quot;&gt;
+  &lt;img src=&quot;/FIMG_0002.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;!--&lt;div class=&quot;text&quot;&gt;Caption Text&lt;/div&gt;--&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mySlides fade&quot;&gt;
+  &lt;img src=&quot;/FIMG_0427.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;!--&lt;div class=&quot;text&quot;&gt;Caption Two&lt;/div&gt;--&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mySlides fade&quot;&gt;
+  &lt;img src=&quot;/FIMG_1527.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;!--&lt;div class=&quot;text&quot;&gt;Caption Three&lt;/div&gt;--&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;
+  &lt;span class=&quot;dot&quot;&gt;&lt;/span&gt;
+  &lt;span class=&quot;dot&quot;&gt;&lt;/span&gt;
+  &lt;span class=&quot;dot&quot;&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName(&quot;mySlides&quot;);
+    var dots = document.getElementsByClassName(&quot;dot&quot;);
+    for (i = 0; i &lt; slides.length; i++) {
+       slides[i].style.display = &quot;none&quot;;
+    }
+    slideIndex++;
+    if (slideIndex&gt; slides.length) {slideIndex = 1}
+    for (i = 0; i &lt; dots.length; i++) {
+        dots[i].className = dots[i].className.replace(&quot; active&quot;, &quot;&quot;);
+    }
+    slides[slideIndex-1].style.display = &quot;block&quot;;
+    dots[slideIndex-1].className += &quot; active&quot;;
+    setTimeout(showSlides, 4000); // Change image every 4 seconds
+}
+&lt;/script&gt;
+&lt;/body&gt;
+</description>
+        <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+        <link>https://pillaim.github.io/interests/2016/10/03/food.html</link>
+        <guid isPermaLink="true">https://pillaim.github.io/interests/2016/10/03/food.html</guid>
+        
+        
+        <category>interests</category>
+        
+      </item>
+    
+      <item>
+        <title>Coffee</title>
+        <description>&lt;p&gt;I get really excited about drinking coffee. I started drinking it with three spoons of sugar, and now I drink it plain because I enjoy the taste so much. I always order lattes; the bitterness of the espresso mixed with the slight sweetness in milk is just incredible.&lt;/p&gt;
+
+&lt;p&gt;Here are a few pictures of coffee from some of my favorite shops.&lt;/p&gt;
+
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot; /&gt;
+
+&lt;style&gt;
+* {box-sizing:border-box}
+
+.mySlides {display:none}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 500px;
+  position: relative;
+  margin: auto;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+/*@media only screen and (max-width: 300px) {*/
+/*  .text {font-size: 11px}*/
+/*}*/
+&lt;/style&gt;
+
+&lt;body&gt;
+  
+&lt;div class=&quot;slideshow-container&quot;&gt;
+
+&lt;div class=&quot;mySlides fade&quot;&gt;
+  &lt;img src=&quot;/IMG_0430.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;!--&lt;div class=&quot;text&quot;&gt;Caption Text&lt;/div&gt;--&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mySlides fade&quot;&gt;
+  &lt;img src=&quot;/IMG_1253.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;!--&lt;div class=&quot;text&quot;&gt;Caption Two&lt;/div&gt;--&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mySlides fade&quot;&gt;
+  &lt;img src=&quot;/IMG_0840.jpg&quot; style=&quot;width:100%&quot; /&gt;
+  &lt;!--&lt;div class=&quot;text&quot;&gt;Caption Three&lt;/div&gt;--&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;br /&gt;
+
+&lt;div style=&quot;text-align:center&quot;&gt;
+  &lt;span class=&quot;dot&quot;&gt;&lt;/span&gt;
+  &lt;span class=&quot;dot&quot;&gt;&lt;/span&gt;
+  &lt;span class=&quot;dot&quot;&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName(&quot;mySlides&quot;);
+    var dots = document.getElementsByClassName(&quot;dot&quot;);
+    for (i = 0; i &lt; slides.length; i++) {
+       slides[i].style.display = &quot;none&quot;;
+    }
+    slideIndex++;
+    if (slideIndex&gt; slides.length) {slideIndex = 1}
+    for (i = 0; i &lt; dots.length; i++) {
+        dots[i].className = dots[i].className.replace(&quot; active&quot;, &quot;&quot;);
+    }
+    slides[slideIndex-1].style.display = &quot;block&quot;;
+    dots[slideIndex-1].className += &quot; active&quot;;
+    setTimeout(showSlides, 4000); // Change image every 4 seconds
+}
+&lt;/script&gt;
+&lt;/body&gt;
+</description>
+        <pubDate>Sun, 02 Oct 2016 00:00:00 +0000</pubDate>
+        <link>https://pillaim.github.io/interests/2016/10/02/coffee.html</link>
+        <guid isPermaLink="true">https://pillaim.github.io/interests/2016/10/02/coffee.html</guid>
+        
+        
+        <category>interests</category>
+        
+      </item>
+    
+      <item>
+        <title>Dance</title>
+        <description>&lt;p&gt;I’ve been dancing since I was 6 years old. My sister and I started learning Bharatanatyam when we lived in New York, and then when we moved to North Carolina, we continued learning.&lt;/p&gt;
+
+&lt;p&gt;Bharatanatyam is a classical Indian art form that incorporates rhythmic and interpretive movements.&lt;/p&gt;
+
+&lt;p&gt;Recently, my sister had her dance graduation, an arangetram, and we did three dances together. The following picture is from the arangetram photoshoot.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/IMG_1491.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+        <link>https://pillaim.github.io/interests/2016/10/01/dance.html</link>
+        <guid isPermaLink="true">https://pillaim.github.io/interests/2016/10/01/dance.html</guid>
+        
+        
+        <category>interests</category>
+        
+      </item>
+    
+  </channel>
+</rss>

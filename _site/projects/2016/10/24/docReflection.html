@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Documentation Reflection</title>
+  <meta name="description" content="Written WorkMy written work is a copy of my first community event description, a list of upcoming INLS events, a few quotes about how it’s important to learn...">
+  <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Source+Sans+Pro:400,700,200,300|Josefin+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="canonical" href="https://pillaim.github.io/projects/2016/10/24/docReflection.html">
+  <link rel="alternate" type="application/rss+xml" title="Malvika" href="https://pillaim.github.io/feed.xml">
+</head>
+
+
+  <body>
+
+    
+<div class="wrapper">
+  <center> <a href="/index.html"><div class="site-title">   Malvika </div></a></center>
+</div>
+<div class="wrapper site-description">
+<center>  INLS 161 Assignment 2 </center>
+</div>
+<div class="wrapper">
+  <div class="trigger site-navigation">
+    <a class="page-link" href="https://pillaim.github.io">HOME</a><span class="exclamationMark">/</span>
+
+    
+    
+
+    <a class="page-link" href="/about/">About</a><span class="exclamationMark">/</span>
+    
+    
+    
+
+    <a class="page-link" href="/academicplan/">Academic Plan</a><span class="exclamationMark">/</span>
+    
+    
+    
+    
+    
+    
+    
+
+    <a class="page-link" href="/references/">References</a><span class="exclamationMark">/</span>
+    
+    
+  </div>
+</div>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline"><a class="post-title-link"  href="/projects/2016/10/24/docReflection.html">Documentation Reflection</a></h1>
+  <center>  <p class="post-meta"><time datetime="2016-10-24T00:00:00+00:00" itemprop="datePublished">Oct 24, 2016</time></p>
+    
+   </center>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <h2 id="written-work">Written Work</h2>
+<p>My written work is a copy of my first community event description, a list of upcoming INLS events, a few quotes about how it’s important to learn how to code, and a picture of coffee that relates to coding.</p>
+
+<h2 id="conversion-description">Conversion Description</h2>
+<p>On 10/22, I wrote a script that will take a markdown file and convert it to <code class="highlighter-rouge">HTML</code>, <code class="highlighter-rouge">DOCX</code>, <code class="highlighter-rouge">ODT</code>, and <code class="highlighter-rouge">PDF</code> formats. I started off the script with an if statement. I made sure that I had my if statement syntax right and then started to read in <code class="highlighter-rouge">README.md</code> as my test file. I kept getting errors. I realized that by taking in my input as <code class="highlighter-rouge">README.md</code> and using that input variable as the argument in my pandoc commands, I was creating documents like <code class="highlighter-rouge">README.md.docx</code>. That’s not what I wanted to do, so I started going through bash syntax to figure out how to get rid of parts of string variables. After I figured that out, I was able to take in a file input and extract the filename from it. My life got a lot easier after I figured that out. I had an executable script that did what the assignment needed me to do. I stopped working on this then.</p>
+
+<p>On 10/24, in class, I realized that I didn’t account for smart quotes, so I added the <code class="highlighter-rouge">-s</code> flag to all of my pandoc commands and put them into a function. That took me a few minutes to understand bash syntax as well because I kept calling the function with <code class="highlighter-rouge">$</code> in front of it. This made me get an error. After taking out the dollar sign, the script worked again. Afterwards, I realized that my error statement wasn’t red, like I wanted it to be, because I forgot to add the <code class="highlighter-rouge">-e</code> tag. I added that, and everything worked like I wanted it to.</p>
+
+<p>On 10/26, I tried to get my output files to put below in the list of files. The script wasn’t working anymore. I was so frustrated because it was working a few days ago. It was glitching at the if statement, so I thought something was wrong with my syntax. I ended up taking out the wildcard in my string comparison, and I used a direct string comparison. To explain further, I took the file input and removed the filename, leaving only the file extension. For example, if a user types in <code class="highlighter-rouge">README.docx</code>, the if statement will only read the <code class="highlighter-rouge">docx</code> portion, see that it is not equal to <code class="highlighter-rouge">md</code>, and produce an error.</p>
+
+<h2 id="list-of-files">List of Files</h2>
+
+<p>Click on filename to get to connecting Github page</p>
+
+<ol>
+  <li>Source: <a href="https://github.com/inls161/assignment-3-pillaim/blob/5489558d33704c6939ae7f7e14aabb87a551fa24/commEventToConvert.md">commEventToConvert.md</a></li>
+  <li>Output: <a href="https://github.com/inls161/assignment-3-pillaim/blob/ff8f2b6276999f290f9d28cdcff8a157bdac905b/commEventToConvert.docx">commEventToConvert.docx</a></li>
+  <li>Output: <a href="https://github.com/inls161/assignment-3-pillaim/blob/ff8f2b6276999f290f9d28cdcff8a157bdac905b/commEventToConvert.html">commEventToConvert.html</a></li>
+  <li>Output: <a href="https://github.com/inls161/assignment-3-pillaim/blob/ff8f2b6276999f290f9d28cdcff8a157bdac905b/commEventToConvert.pdf">commEventToConvert.pdf</a></li>
+  <li>Output: <a href="https://github.com/inls161/assignment-3-pillaim/blob/ff8f2b6276999f290f9d28cdcff8a157bdac905b/commEventToConvert.odt">commEventToConvert.odt</a></li>
+</ol>
+
+<h2 id="script">Script</h2>
+
+<p>Click on filename to get to connecting Github page</p>
+
+<ul>
+  <li><a href="https://github.com/inls161/assignment-3-pillaim/commit/0309cab0863296de9a3d723c25887657d20b82d0">pillaim-convert-docs.sh</a></li>
+</ul>
+
+<h2 id="link-to-cloud9-workspace">Link to Cloud9 Workspace:</h2>
+
+<ul>
+  <li><a href="https://ide.c9.io/pillaim/assignment3">https://ide.c9.io/pillaim/assignment3</a></li>
+</ul>
+
+  </div>
+
+
+</article>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading small-site-title">Malvika</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list footer-content">
+          <li>Powered By <a href="http://github.com/hemangsk/Gravity">Gravity</a></li>
+          <li>Made with <i class="fa fa-heart"></i> on <a href="http://jekyllrb.com"><span style="color:black">{ { Jekyll } }</a></span></li>
+
+
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2 footer-content">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/pillaim"><span class="icon icon--github"><svg viewBox="0 0 16 16"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">pillaim</span></a>
+
+          </li>
+          
+
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3 site-description">
+        <p>INLS 161 Assignment 2</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
