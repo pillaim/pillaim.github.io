@@ -435,7 +435,8 @@ pre {
 
 .post-content {
   margin-bottom: 30px;
-  padding-bottom: 3em !important; }
+  padding-bottom: 3em !important;
+  font-family: 'PT Sans';}
   .post-content p {
     font-size: 1.5rem; }
   .post-content h2 {
