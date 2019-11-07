@@ -3,5 +3,6 @@ layout: page
 title : About
 permalink: /about/
 ---
+Hi!
 
-I am a 1st year PhD student in Health Informatics at UNC CHIP. I’m interested in using genetic and clinical data for predictive analytics. Currently, I'm focusing on developing a solid foundation in machine learning and text mining.
+I'm currently a 3rd year PhD student in Health Informatics at the University of North Carolina at Chapel Hill. My research is on literature and EHR-based validation methods for computational drug repositioning.
