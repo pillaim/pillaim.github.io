@@ -1,7 +1,7 @@
 ---
-layout: archive
+layout: page
 title: Publications and Presentations
-permalink: /publications/
+permalink: /references/
 category: "publications"
 tagline: "a working list."
 ---
