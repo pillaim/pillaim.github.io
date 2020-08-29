@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications and Presentations
+title: Publications
 permalink: /references/
 category: "publications"
 tagline: "a working list."
