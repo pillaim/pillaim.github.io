@@ -9,4 +9,4 @@ I'm currently a 4th year PhD student in Health Informatics at the University of 
 
 I am also doing projects in UNC Department of Radiation Oncology on augmenting quality assurance measures with machine learning and in UNC Department of Nursing on evaluating patient experience for telehealth encounters in a virtual clinic.
 
-Take a look at my resume or publication/presentation list to learn more!
+Take a look at the rest of my website to learn more!
